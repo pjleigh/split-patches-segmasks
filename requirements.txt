@@ -1,0 +1,5 @@
+glob2
+numpy
+math
+Pillow
+bs4
